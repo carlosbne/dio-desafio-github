@@ -1,0 +1,16 @@
+# Comandos no Git Bash
+
+1- git config --global user.name "Carlos"
+   git config --global user.email carlosh@ex.com
+
+2- git init <- iniciar um repositório em um diretório já existente.
+
+3- git clone <- clona um repositório já existente para sua máquina.
+
+4- git status <- mostra o status atual do seu repositório local.
+
+5- git add (*)/(.) <- adciona o arquivo ao repositório.
+
+6- git commit (-m <- add um comentario) <- Cria um commit local para o arquivo.
+
+7- git push (origin main) <- enviando o commit local para a nuvem.
